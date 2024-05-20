@@ -1,6 +1,6 @@
 # <p align="center">Jitsi Meet React Native SDK</p>
 
-# khayyam karimov
+# khayyam karimov 1
 
 ## Installation
 
